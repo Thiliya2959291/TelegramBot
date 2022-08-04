@@ -1,4 +1,3 @@
 Print (hi)
-
 Print (hello)
 
