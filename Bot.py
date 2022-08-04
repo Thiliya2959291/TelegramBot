@@ -1,1 +1,4 @@
-Printe 1
+Print (hi)
+
+Print (hello)
+
